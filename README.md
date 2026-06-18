@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sabor-a-lagrimas/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Sabor a lágrimas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabor-a-lagrimas/) |
+| **Get License** | [Secure Licensing Rights for Sabor a lágrimas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabor-a-lagrimas/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus besos saben a la noche y a peligro
+> Un sabor a lágrimas que bebo como vino
+> Mami, tú me tienes loco, caminando por el filo
+> Tú y yo en la oscuridad, perdiendo el estilo
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
